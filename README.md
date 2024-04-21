@@ -73,6 +73,7 @@ print(timer) # Se imprime el tiempo
 ```
 Desde el termino 36 de la serie, el cambio de tiempo es significativo, como se ve en la siguiente imagen:
 [![Captura-de-pantalla-2024-04-21-174439.png](https://i.postimg.cc/bJx8DFvL/Captura-de-pantalla-2024-04-21-174439.png)](https://postimg.cc/wyjnn2Ls)
+[![Captura-de-pantalla-2024-04-21-174740.png](https://i.postimg.cc/VN9HjyjS/Captura-de-pantalla-2024-04-21-174740.png)](https://postimg.cc/XZJ8bz13)
 >### 5.Crear cuenta en stackoverflow y adjuntar imagen en el repo
 [![Captura-de-pantalla-2024-04-21-173839.png](https://i.postimg.cc/Lskjy2Qp/Captura-de-pantalla-2024-04-21-173839.png)](https://postimg.cc/yJdJx4zQ)
 >### 6.Cosas de adultos....ir a linkedin y crear perfil.... Dejar enlace en el repo.
