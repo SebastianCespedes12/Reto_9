@@ -71,7 +71,7 @@ end_time = time.time() # Se termina el tiempo
 timer = end_time - start_time # Se calcula el tiempo con la diferencia de la hora final y la hora inicial
 print(timer) # Se imprime el tiempo
 ```
-Desde el termino 36 la el cambio es significativo, como se ve en la siguiente imagen:
+Desde el termino 36 de la serie, el cambio de tiempo es significativo, como se ve en la siguiente imagen:
 [![Captura-de-pantalla-2024-04-21-171956.png](https://i.postimg.cc/vTsjJYbt/Captura-de-pantalla-2024-04-21-171956.png)](https://postimg.cc/jwMZNrWD)
 >### 5.Crear cuenta en stackoverflow y adjuntar imagen en el repo
 [![Captura-de-pantalla-2024-04-21-173839.png](https://i.postimg.cc/Lskjy2Qp/Captura-de-pantalla-2024-04-21-173839.png)](https://postimg.cc/yJdJx4zQ)
