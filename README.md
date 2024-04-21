@@ -34,7 +34,7 @@ def factorial (*args):
       i-=1 # El numero se resta por uno y se repite el ciclo
     print("El factorial de " +str(N)+" es "+str(Factorial))  # Se imprime el numero y su factorial 
 
-#Reto 4, punto 4 (4.Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:)
+#Reto 4, punto 4 (Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:)
 def determinante (*args):
   for i in args:  # Se recorre la lista de numeros
     if i >0 : # Si el numero es positivo
